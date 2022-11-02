@@ -9,7 +9,7 @@ The purpose is to provide Louise a visualization and analysis on the campaign ou
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-Based on the Launch Date a pivot table is created from the Kickstarter dataset to showcase the successful, failed and canceled outcomes in the Theatre Parent category. 
+Based on the Launch Date a **pivot table** is created from the Kickstarter dataset to showcase the successful, failed and canceled outcomes in the Theatre Parent category. 
 
 A line chart is then created to display the Outcomes based on the launch date. 
 
