@@ -1,7 +1,7 @@
 # Kickstarter Analysis with Excel
 
 ## Overview of Project
-The purpose of this project to create visualization and analyze the campaign outcomes based on their launch dates and their funding goals. 
+The purpose of this project to create visualization and analyze the Kickstarter campaign outcomes based on their launch dates and their funding goals. 
 
 ### Analysis of Parent and Sub-Category Statistics 
 A pivot table is created alongside a bar chart for visualization
